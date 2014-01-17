@@ -1,0 +1,6 @@
+A branch is, essentially, an independent chain of commits, giving you easy access to different versions fo the same code. They allow you to make more dangerous changes to code while protecting the master codebase, unaffected by any new commits. They also allow you to work on different new features in parallel.
+
+
+* -- * -- * -- * < master
+           \
+            * -- * -- * < branch
